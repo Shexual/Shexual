@@ -19,6 +19,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/IzonaLy/IzonaLy/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/IzonaLy/IzonaLy/blob/output/github-snake.svg" />
 </picture>
-https://github.com/IzonaLy/IzonaLy/blob/output/github-snake.svg
 
-[![snake gif](https://github.com/IzonaLy/IzonaLy/blob/output/github-snake.svg)
